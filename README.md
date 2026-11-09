@@ -38,3 +38,7 @@ See the notebook for actual evaluation accuracy and loss.
 
 ## Note
 This model performs binary classification (Food vs Non-Food). It does not identify specific dishes or estimate calories.
+
+
+## Training Performance
+![Training Graph](food5k_training_graph.png)
